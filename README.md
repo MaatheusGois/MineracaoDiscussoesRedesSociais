@@ -28,5 +28,4 @@ Os notebooks jupyter fornecidos possuem 3 funcionalidades diferentes, dependendo
   
  ### 3) Tcc_CsvToVisu.ipynb 
   * Responsável por formatar o arquivo .csv gerado pela classificação de argumentos de acordo com as regras para ferramenta Visu
-  <br> 
   * O arquivo final `Saida_Visu.txt` pode ser utilizado diretamente na ferramenta Visu como insumo para as visualizações.
