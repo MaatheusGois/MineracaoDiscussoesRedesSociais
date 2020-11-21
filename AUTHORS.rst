@@ -1,6 +1,6 @@
 Autores
 ===========
-- João Pedro da Silva Sousa <joaops.sousa@outlook.com> `@jpsoousa <https://github.com/jpsoousa>`_
+- João Pedro da Silva Sousa <joaops.sousa@outlook.com> `@joaops-sousa <https://github.com/joaops-sousa>`_
 - Rodrigo Costa Uchoa do Nascimento<rodrigo.costa9620@gmail.com> `@rodrigo102 <https://github.com/rodrigo102>`_
 
 Orientadores
